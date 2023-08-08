@@ -44,6 +44,9 @@ node src/app.js
     - `:face`: The face of the cube to rotate (e.g., `front`, `top`).
     - `:direction`: The direction of rotation (`clockwise` or `counterClockwise`).
   - Response: A message indicating the successful rotation.
+ 
+  - All faces: front, left, right, top, bottom, horizontal (middle), verticalfront (middle), verticalside (middle)
+  - All directions: clockwise, counterClockwise, double (clockwise)
 
 ## App Configuration
 
