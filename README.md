@@ -45,7 +45,7 @@ node src/app.js
     - `:direction`: The direction of rotation (`clockwise` or `counterClockwise`).
   - Response: A message indicating the successful rotation.
  
-  - All faces: front, left, right, top, bottom, horizontal (middle), verticalfront (middle), verticalside (middle)
+  - All faces: front, back, left, right, top, bottom, horizontal (middle), verticalfront (middle), verticalside (middle)
   - All directions: clockwise, counterClockwise, double (clockwise)
 
 ## App Configuration
